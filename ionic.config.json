@@ -1,0 +1,7 @@
+{
+  "name": "webDevelopment",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
